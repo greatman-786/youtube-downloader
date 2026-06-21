@@ -54,7 +54,7 @@ Video Downloaded & Delivered
 
 1. Clone the repository
 ```bash
-git clone https://github.com/asad/youtube-downloader.git
+git clone https://github.com/greatman-786/youtube-downloader.git
 cd youtube-downloader
 ```
 
@@ -141,4 +141,4 @@ YouTube's Terms of Service and content creators' rights when downloading videos.
 ## 🙋‍♂️ Author
 
 **Asad** — Software Engineer  
-Building practical web applications for real-world use cases.
+Building practical web applications for real-world use cases
